@@ -6,3 +6,5 @@ also same maziar branch
 
 change made in abed branch
 again change made in abed branch
+
+fiy bugs in master file for the version 0.0.2
